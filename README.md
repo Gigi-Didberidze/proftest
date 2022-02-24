@@ -2,7 +2,7 @@
 ## _using Google Perf Tools_
 
 
-First step is to install google-perftools" Package on Ubuntu:
+First step is to install google-perftools Package on Ubuntu:
 ```sh
 sudo apt-get update –y
 sudo apt-get install -y google-perftools libgoogle-perftools-dev
