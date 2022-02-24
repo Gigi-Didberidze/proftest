@@ -28,7 +28,7 @@ make -j LDFLAGS="-all-static -lprofiler"
 LD_PRELOAD=/usr/lib/libprofiler.so CPUPROFILE=<name>.prof CPUPROFILE_FREQUENCY=100000 ./<outputname>
 google-pprof ./<outputname> <name>.prof
 ```
-libprofiler.so might also be in /usr/lib/x86_64-linux-gnu
+libprofiler.so might also be in /usr/lib/x86_64-linux-gnu  
 We can also generate a pdf with cpuprofile info:
 ```sh
 google-pprof --pdf ./<outputname> <name>.prof > <name>.pdf
