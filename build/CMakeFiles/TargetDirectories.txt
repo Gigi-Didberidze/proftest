@@ -1,3 +1,0 @@
-/home/edidgio/Documents/proftest/build/CMakeFiles/rebuild_cache.dir
-/home/edidgio/Documents/proftest/build/CMakeFiles/edit_cache.dir
-/home/edidgio/Documents/proftest/build/CMakeFiles/testprofiling.dir
